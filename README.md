@@ -1,1 +1,1 @@
-A URL shortener implemented in Golang.
+# A URL shortener implemented in Golang.
